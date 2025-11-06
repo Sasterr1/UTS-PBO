@@ -52,3 +52,4 @@ console.log("---------------------------------");
 
 cutitahunan.applyLeave("tahunan", 5);
 cutisakit.applyLeave("sakit", 3);
+cutimelahirkan.applyLeave("melahirkan",30);
